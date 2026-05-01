@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+# Python Cache
+__pycache__/
+*.pyc
+# IDE
+.vscode/
+# Output
+output/
+uploads/
+image_enhancement_functions/dataset/
+helmet_withoutyolo/V2/data/
+helmet_withoutyolo/helmet-detection-system/
+image_enhancement_functions/model/
+helmet_withoutyolo/V2/outputs_v4/
+helmet_withoutyolo/V2/scripts/test_videos/
+uploads\
+helmet_withoutyolo/dataset/archive/
+helmet_withoutyolo/savedmodel/
+
+*.pt
+*.pth
+*.mp4
+*.avi
+*.mov
+!.gitignore
+*.zipV2/data/processed.zip
+V2/data/processed.zip
+V2/data/processed.zip
+.DS_Store
+V2/data/
+V2/**/*.jpg
